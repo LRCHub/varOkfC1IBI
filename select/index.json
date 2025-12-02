@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "瞳をとじて",
+  "base_artist": "Ken Hirai",
+  "createdAt": "2025-12-02T18:04:51.013680Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "瞳をとじて",
+      "artist": "Debbie Gibson",
+      "has_synced": true,
+      "path": "select/01_瞳をとじて_Debbie_Gibson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "瞳をとじて",
+      "artist": "平井 堅",
+      "has_synced": true,
+      "path": "select/02_瞳をとじて_平井_堅.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "瞳をとじて",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/03_瞳をとじて_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "瞳をとじて",
+      "artist": "Hirai Ken",
+      "has_synced": true,
+      "path": "select/04_瞳をとじて_Hirai_Ken.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "瞳をとじて",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/05_瞳をとじて_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "瞳をとじて",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/06_瞳をとじて_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "瞳をとじて",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/07_瞳をとじて_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "瞳をとじて",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/08_瞳をとじて_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "瞳をとじて",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/09_瞳をとじて_杏里.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "瞳をとじて",
+      "artist": "ayaka",
+      "has_synced": true,
+      "path": "select/10_瞳をとじて_ayaka.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "瞳をとじて",
+      "artist": "May J.",
+      "has_synced": false,
+      "path": "select/11_瞳をとじて_May_J..txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "瞳をとじて",
+      "artist": "BENI",
+      "has_synced": false,
+      "path": "select/12_瞳をとじて_BENI.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "瞳をとじて",
+      "artist": "Crystal Kay",
+      "has_synced": true,
+      "path": "select/13_瞳をとじて_Crystal_Kay.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "瞳をとじて",
+      "artist": "Kay, Crystal",
+      "has_synced": true,
+      "path": "select/14_瞳をとじて_Kay,_Crystal.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "瞳をとじて",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_01_瞳をとじて_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "瞳をとじて",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_02_瞳をとじて_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "瞳をとじて",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_03_瞳をとじて_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "瞳をとじて",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_04_瞳をとじて_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "瞳をとじて",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_05_瞳をとじて_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "瞳をとじて",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_06_瞳をとじて_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "瞳をとじて",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_07_瞳をとじて_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "瞳をとじて",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_08_瞳をとじて_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "瞳をとじて",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_09_瞳をとじて_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "瞳をとじて",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_10_瞳をとじて_平井_堅.txt"
+    }
+  ]
+}
